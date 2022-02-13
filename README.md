@@ -2,25 +2,34 @@
 <h3 align="left">Kumpulan Tugas dan Praktikum Pemograman Dasar Java</h3>
 
 <h2 align="left">Output Array 1</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738504-c5993aa8-8167-4df3-8991-f77c5038e9ea.png">
+<img src="https://user-images.githubusercontent.com/71278187/153739265-74f57909-4787-4ddf-85c2-248a5db1d7ac.png">
 
-<h2 align="left">Output Macam Method</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738554-456fb2e9-391b-4618-8eae-7772b46c24d3.png">
+<h2 align="left">Output Array 2</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739274-0c0acaaf-c0a0-4b1a-94d1-1be942ac388c.png">
 
-<h2 align="left">Output Konstruktor Parameter</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738589-d9545176-a57e-4b96-9420-20cd4f2d62da.png">
+<h2 align="left">Output Array 3</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739289-a79b000d-0e0d-4fc2-b3fd-bd6761f00019.png">
 
-<h2 align="left">Output Enkapsulasi</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738633-796d86a7-fecc-4a33-a893-5138f743a6d0.png">
+<h2 align="left">Output Perulangan 1</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739323-6881c422-0ed3-49b8-8b06-4f0b3abe7a6b.png">
 
-<h2 align="left">Output Inheritance</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738712-14cc8032-9d68-497e-a192-b31f0af6c270.png">
+<h2 align="left">Output Perulangan 2</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739351-a1730946-ed9e-44a8-bf51-edc0e283fd6a.png">
 
-<h2 align="left">Output Setter Getter</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738734-4b24e56f-22b6-4b95-a622-ca8bb48b61f0.png">
+<h2 align="left">Output Perulangan 3</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739368-1e3c6c0e-e168-482d-a6eb-0a9e9cdecb5c.png">
 
-<h2 align="left">Output Overriding</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738765-679f3591-ce83-4902-b4a5-9377028c5dbf.png">
+<h2 align="left">Output Perulangan 4</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739394-f9d3754d-31f9-43dc-972d-a5bcfbf4d326.png">
 
-<h2 align="left">Output Overloading</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153738790-abf694ba-a59a-487d-8e47-bad16499e030.png">
+<h2 align="left">Output Seleksi Kondisi 1</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739419-10718064-8af9-4965-bd65-e2819c0dbdc0.png">
+
+<h2 align="left">Output Seleksi Kondisi 2</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739463-3b9f717b-7f62-463b-8337-95d2e839989e.png">
+
+<h2 align="left">Output Seleksi Kondisi 3</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739482-f8d397b3-3129-4fb3-9663-fa63307e7ee8.png">
+
+<h2 align="left">Output Seleksi Kondisi 4</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153739507-1b93c4a0-5458-4bf0-8fb6-1b7010a2ef48.png">
